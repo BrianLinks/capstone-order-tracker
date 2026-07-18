@@ -1,0 +1,16 @@
+MIT License
+
+Copyright (c) 2026 Brian Okoth
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
+```//
+
+**.gitignore** — paste this in:
+
+```
+node_modules/
+.env
+.DS_Store
+dist/
+*.log
